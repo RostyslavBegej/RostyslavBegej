@@ -34,13 +34,20 @@
 
 <hr/>
 
-<details align="left">
-  <summary><h2><b>⭐ GitHub stats</b></h2></summary>
-  <p>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RostyslavBegej&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
-   <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=RostyslavBegej&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
-   <br>
-   <img src="https://metrics.lecoq.io/RostyslavBegej" />
-  </p>
-</details>
+<p align="center">
+  <a href="https://github.com/RostyslavBegej">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RostyslavBegej&theme=radical&border=7F3FBF&background=0D1117" alt="RostyslavBegej's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/RostyslavBegej">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RostyslavBegej&theme=radical" alt="RostyslavBegej's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/RostyslavBegej"><img alt="RostyslavBegej's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=RostyslavBegej&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/RostyslavBegej"><img alt="RostyslavBegej's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=RostyslavBegej&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>

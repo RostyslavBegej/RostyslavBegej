@@ -51,3 +51,11 @@
     <a href="https://github.com/RostyslavBegej"><img alt="RostyslavBegej's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=RostyslavBegej&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
+
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=30&duration=4000&color=7731F7&lines=Thanks+for+visiting!;+Have+a+nice+day!" />
+</div>
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=7731f7&section=footer"/>
+</p>

@@ -1,16 +1,42 @@
-## Hi there 👋
+<p>
+  <a href="https://github.com/RostyslavBegej">
+    <img src="https://komarev.com/ghpvc/?username=RostyslavBegej" alt="RostyslavBegej" />
+  </a>
+</p>
 
-<!--
-**RostyslavBegej/RostyslavBegej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Image](https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gifv)
 
-Here are some ideas to get you started:
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=4000&color=7731F7&lines=Hi+There!+👋;+I'm+Rostyslav!;" />
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">I am a Java Developer from Ukraine</p>
+<p align="center">Here you can see my developments!</p>
+
+<div align="center"> 
+  <a href="mailto:rostyslav.begej.work@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://t.me/uuudxr" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</div>
+
+<div style="text-align: center;" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RostyslavBegej/RostyslavBegej/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/RostyslavBegej/RostyslavBegej/blob/output/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/Y-Maxym/Y-Maxym/blob/output/ocean.gif" />
+  </picture>
+</div>
+
+<details align="left">
+  <summary><h2><b>⭐ GitHub stats</b></h2></summary>
+  <p>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RostyslavBegej&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
+   <br>
+   <img src="https://github-readme-stats.vercel.app/api?username=RostyslavBegej&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
+   <br>
+   <img src="https://metrics.lecoq.io/RostyslavBegej" />
+  </p>
+</details>

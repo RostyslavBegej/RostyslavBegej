@@ -10,6 +10,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=4000&color=7731F7&lines=Hi+There!+👋;+I'm+Rostyslav!;" />
 </h1>
 
+<hr/>
+
 <p align="center">I am a Java Developer from Ukraine</p>
 <p align="center">Here you can see my developments!</p>
 
@@ -29,6 +31,8 @@
     <img alt="github-snake" src="https://github.com/RostyslavBegej/RostyslavBegej/blob/main/workflows/ocean.gif" />
   </picture>
 </div>
+
+<hr/>
 
 <details align="left">
   <summary><h2><b>⭐ GitHub stats</b></h2></summary>
